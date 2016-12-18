@@ -1,2 +1,20 @@
-<xml>
+<xml version="1.0" encoding="UTF-8">
+  <marketSolutions>
+    <dashboards>
+      <solution id="123">
+        <name>Solution 1</name>
+        <description>This is solution 1</description>
+      </solution>
+      <solution id="456">
+        <name>Solution 2</name>
+        <description>This is solution 2</description>
+      </solution>
+      <solution id="789">
+        <name>Solution 3</name>
+        <description>This is solution 3</description>
+      </solution>
+    </dashboards>
+    <reports>
+    </reports>
+  </marketSolutions>
 </xml>
