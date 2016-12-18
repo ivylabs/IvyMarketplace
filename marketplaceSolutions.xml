@@ -1,17 +1,23 @@
 <xml version="1.0" encoding="UTF-8">
   <marketSolutions>
     <dashboards>
-      <solution id="123">
+      <solution>
+        <id>1</id>
+        <version>1.0</version>
         <name>Solution 1</name>
         <description>This is solution 1</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
       </solution>
-      <solution id="456">
+      <solution>
+        <id>2</id>
+        <version>1.0</version>
         <name>Solution 2</name>
         <description>This is solution 2</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
       </solution>
-      <solution id="789">
+      <solution>
+        <id>3</id>
+        <version>1.0</version>
         <name>Solution 3</name>
         <description>This is solution 3</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
