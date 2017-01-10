@@ -5,14 +5,14 @@
         <id>1</id>
         <version>1.0</version>
         <name>Solution 1</name>
-        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget dui eu orci pretium mattis at eu nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sit amet purus quis tellus hendrerit ornare. Nulla facilisi. Etiam tincidunt nunc in tempus pulvinar. Suspendisse potenti. Morbi aliquet finibus bibendum. Ut ornare velit quam, sed placerat nisi dictum a. Aenean scelerisque, lorem vitae finibus sollicitudin, purus magna dapibus lorem, sed vestibulum diam nunc at neque. Ut id turpis ac diam placerat sodales.</description>
+        <description>This is the sample Dashboard 1.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
       </solution>
       <solution>
         <id>2</id>
         <version>1.0</version>
         <name>Solution 2</name>
-        <description>Nam facilisis, eros et dapibus pulvinar, elit ligula sodales tortor, in posuere mauris felis non tellus. Sed quis nunc rhoncus, volutpat nisi ac, rhoncus erat. Nulla lectus lacus, porta id porta in, pellentesque quis felis. In eget metus eget nisl pharetra ornare. Curabitur varius enim a ante condimentum eleifend. Nam vel auctor neque. Sed eget odio nisi. Proin non sollicitudin diam, quis aliquam nibh. Ut pretium laoreet tincidunt. In gravida dapibus metus non aliquet. Mauris rutrum nisl non volutpat efficitur. Sed in tristique sapien. Fusce porttitor bibendum elit id venenatis. Sed non nulla quis felis ultricies pretium. Sed metus tellus, hendrerit ac rutrum semper, facilisis eget orci. Curabitur consectetur erat vitae lacus pharetra tristique.</description>
+        <description>This is the sample Dashboard 2.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
       </solution>
       
