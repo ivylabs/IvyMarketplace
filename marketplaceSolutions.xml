@@ -8,7 +8,7 @@
         <description>This is the sample Dashboard 1.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>dashboard</solutiontype>
-        <solutionfile>dashboardSolution1.wcdf</solutionfile>
+        <solutionfile>DashboardSolution1.wcdf</solutionfile>
       </solution>
       <solution>
         <id>2</id>
@@ -17,7 +17,7 @@
         <description>This is the sample Dashboard 2.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>dashboard</solutiontype>
-        <solutionfile>dashboardSolution2.wcdf</solutionfile>
+        <solutionfile>DashboardSolution2.wcdf</solutionfile>
       </solution>
       <solution>
         <id>3</id>
@@ -26,7 +26,7 @@
         <description>This is the sample Dashboard 3.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>dashboard</solutiontype>
-        <solutionfile>dashboardSolution3.wcdf</solutionfile>
+        <solutionfile>DashboardSolution3.wcdf</solutionfile>
       </solution>
       <solution>
         <id>4</id>
@@ -35,7 +35,7 @@
         <description>This is the sample Report 1.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>report</solutiontype>
-        <solutionfile>reportSolution1.wcdf</solutionfile>
+        <solutionfile>ReportSolution1.wcdf</solutionfile>
       </solution>
     </dashboards>
     <reports>
