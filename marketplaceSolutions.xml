@@ -4,18 +4,21 @@
       <solution>
         <id>1</id>
         <version>1.0</version>
-        <name>Solution 1</name>
+        <name>Dashboard Solution 1</name>
         <description>This is the sample Dashboard 1.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
+        <solutiontype>dashboard</solutiontype>
+        <solutionfile>dashboardSolution1.wcdf</solutionfile>
       </solution>
       <solution>
         <id>2</id>
         <version>1.0</version>
-        <name>Solution 2</name>
+        <name>Dashboard Solution 2</name>
         <description>This is the sample Dashboard 2.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
+        <solutiontype>dashboard</solutiontype>
+        <solutionfile>dashboardSolution2.wcdf</solutionfile>
       </solution>
-      
     </dashboards>
     <reports>
     </reports>
