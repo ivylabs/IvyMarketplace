@@ -19,6 +19,15 @@
         <solutiontype>dashboard</solutiontype>
         <solutionfile>dashboardSolution2.wcdf</solutionfile>
       </solution>
+      <solution>
+        <id>3</id>
+        <version>1.0</version>
+        <name>Dashboard Solution 3</name>
+        <description>This is the sample Dashboard 3.</description>
+        <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
+        <solutiontype>dashboard</solutiontype>
+        <solutionfile>dashboardSolution3.wcdf</solutionfile>
+      </solution>
     </dashboards>
     <reports>
     </reports>
