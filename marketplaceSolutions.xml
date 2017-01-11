@@ -28,6 +28,15 @@
         <solutiontype>dashboard</solutiontype>
         <solutionfile>dashboardSolution3.wcdf</solutionfile>
       </solution>
+      <solution>
+        <id>4</id>
+        <version>1.0</version>
+        <name>Report Solution 3</name>
+        <description>This is the sample Report 1.</description>
+        <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
+        <solutiontype>report</solutiontype>
+        <solutionfile>reportSolution1.wcdf</solutionfile>
+      </solution>
     </dashboards>
     <reports>
     </reports>
