@@ -4,7 +4,7 @@
       <solution>
         <id>1</id>
         <version>1.0</version>
-        <name>Dashboard Solution 1</name>
+        <name>Customer Analysis</name>
         <description>This is the sample Dashboard 1.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>dashboard</solutiontype>
@@ -13,7 +13,7 @@
       <solution>
         <id>2</id>
         <version>1.0</version>
-        <name>Dashboard Solution 2</name>
+        <name>Top Ten Customers</name>
         <description>This is the sample Dashboard 2.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>dashboard</solutiontype>
@@ -22,8 +22,8 @@
       <solution>
         <id>3</id>
         <version>1.0</version>
-        <name>Dashboard Solution 3</name>
-        <description>This is the sample Dashboard 3.</description>
+        <name>USA Sales</name>
+        <description>USA Sales</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>dashboard</solutiontype>
         <solutionfile>DashboardSolution3.wcdf</solutionfile>
@@ -31,7 +31,7 @@
       <solution>
         <id>4</id>
         <version>1.0</version>
-        <name>Report Solution 3</name>
+        <name>Product Comparison</name>
         <description>This is the sample Report 1.</description>
         <image>http://vignette3.wikia.nocookie.net/egamia/images/f/f3/Intel_logo.png</image>
         <solutiontype>report</solutiontype>
